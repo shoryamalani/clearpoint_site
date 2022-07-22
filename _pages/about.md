@@ -16,4 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Clearpoint Management works in property rentals and app making. The corporation has existed since 2015 and aims to build on its current fundamentals.
+Clearpoint Management works in property rentals and app building. The corporation has existed since 2015 and aims to build on its current fundamentals.

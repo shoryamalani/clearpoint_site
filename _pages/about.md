@@ -8,8 +8,7 @@ profile:
   align: right
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>5724 Shady Mill Way</p>
-    <p>Glen Allen, Virginia</p>
+     <p>support@clearpointmanagement.com</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

@@ -19,3 +19,6 @@ This is a trivia app to help quizbowl players harness their craft and practice. 
 Please contact us at the email support@clearpointmanagement.com if you have any questions, comments, or concerns. 
 
 More updates are right around the corner and we have so many more ideas including a possible multiplayer mode down the line so stick around.
+
+
+In terms of privacy, we take no data except answers off the device and as of version 1.0.1 no data is stored. Later, data about score and preferences will be stored on device.
